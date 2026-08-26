@@ -1,0 +1,20 @@
+# Model weights & checkpoints — excluded from this repo (see README)
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+*.h5
+*.onnx
+*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db

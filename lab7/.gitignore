@@ -1,0 +1,11 @@
+# Large reproducible datasets / generated outputs (see README for how to regenerate)
+data/
+resized_flowers102/
+GENIMG/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
